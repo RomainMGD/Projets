@@ -1,0 +1,46 @@
+body{
+    background: url(../Fond/lol.jpeg);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.Titre{
+    background: url(../Fond/hexagone.jpg);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    padding-right: 12%;
+    border: black solid 2px;
+    color: rgb(0, 0, 0);
+    
+}
+.postitre{
+    margin-top: 50px;
+
+}
+
+.Base{
+    border: 5px rgb(107, 115, 139) ridge;
+    background: url(../Fond/smoke2.jpeg);
+    margin-left: 150px;
+    margin-right: 100px;
+    height: 5000px;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+.information{
+    background-color: white;
+    border: 5px black ridge;
+    float: right;
+    height: 170px;
+    width: 140px;
+    margin-top: -50px;
+    padding-bottom: 4819px;
+    background-color: grey;
+}
